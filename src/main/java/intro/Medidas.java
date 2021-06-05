@@ -13,7 +13,7 @@ public class Medidas {
 
     }
 
-    public void calcularAreaModoExtenso(){
+    public static void calcularAreaModoExtenso(){
         // Calculo de área - Exemplo: o tamanho do tapete ou do piso
         int largura;
         int comprimento;
